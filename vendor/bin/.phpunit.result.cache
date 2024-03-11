@@ -1,0 +1,1 @@
+{"version":1,"defects":{"MyTestFileTest::testEmptyInputSignup":8,"MyTestFileTest::testPwdMatch":7},"times":{"MyTestFileTest::testEmptyInputSignup":0.003,"MyTestFileTest::testInvalidUid":0,"MyTestFileTest::testInvalidEmail":0.001,"MyTestFileTest::testPwdMatch":0}}
