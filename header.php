@@ -25,7 +25,7 @@ session_start();
     <div class="header-container">
         <img id="logo" src="img/gim_logo.png" alt="logo">
 
-        <h1>THE PHP APP</h1>
+        <h1>THE GYM APP</h1>
     
         <!-- Navigation -->
         <nav>
