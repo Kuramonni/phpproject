@@ -1,13 +1,13 @@
 <?php
-// tests/MyTestFileTest.php
-// vendor/bin/phpunit tests/MyTestFileTest.php
+// tests/AppTest.php
+// vendor/bin/phpunit tests/AppTest.php
 
 use PHPUnit\Framework\TestCase;
 
 // Include the file containing the functions to be tested
-require_once 'C:\xampp\htdocs\peehoopee\includes\functions.inc.php'; 
+require_once 'C:\xampp\htdocs\phpproject\includes\functions.inc.php'; 
 
-class MyTestFileTest extends TestCase
+class AppTest extends TestCase
 {
     public function testEmptyInputSignup()
     {
@@ -45,5 +45,5 @@ class MyTestFileTest extends TestCase
         $this->assertTrue(pwdMatch('password', 'password'));
     }
 
-
+    
 }

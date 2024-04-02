@@ -42,7 +42,7 @@ require_once 'includes/dbh.inc.php';
         echo "<label for='newEmail'>New Email Address:</label>";
         echo "<input type='email' id='newEmail' name='newEmail' value='" . $userData["usersEmail"] . "'><br>";
         echo "<button type='submit' id='saveSettingsBtn'>Save Settings</button>";
-        echo "<a href='includes/remove_user.php'><button type='button' id='removeUserBtn'>Remove User</button></a>";
+        echo "<a href='includes/remove_user.inc.php'><button type='button' id='removeUserBtn'>Remove User</button></a>";
         echo "</form>";
         echo "</div>";
     } else {

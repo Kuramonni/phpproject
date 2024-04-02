@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"AppTest::testEmptyInputSignup":0.004,"AppTest::testInvalidUid":0,"AppTest::testInvalidEmail":0.001,"AppTest::testPwdMatch":0}}
