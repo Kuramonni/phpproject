@@ -1,4 +1,4 @@
-# The Gym App
+# Gym App
 
 A login system and an exercise tracker designed to track your progress at the gym.
 
